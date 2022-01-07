@@ -1,11 +1,10 @@
 function clicouBotao(){
     var resposta = Number(prompt("Qual caminho Nádia deve seguir?"));
     
-    if (!resposta) {
-        alert("Reinicie o game");
-    
-    }
-    else if (resposta === 1){
+    while (!resposta){
+        var resposta = Number(prompt("Responda 1, 2 ou 3"));
+    } 
+    if (resposta === 1){
         alert("HEHEH");
         location.href = "../Fase 2/nadiaF2.html"
     }

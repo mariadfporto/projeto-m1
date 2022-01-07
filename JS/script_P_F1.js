@@ -1,11 +1,11 @@
 function clicouBotao(){
     var resposta = Number(prompt("Qual caminho Paulo deve seguir?"));
     
-    if (!resposta) {
-        alert("Reinicie o game");
-    
-    }
-    else if (resposta === 1){
+    while (!resposta){
+        var resposta = Number(prompt("Responda 1, 2 ou 3"));
+    } 
+
+    if (resposta === 1){
         alert("HEHEH");
     }
     else if (resposta === 2) {
@@ -20,3 +20,5 @@ function clicouBotao(){
         alert("Game over");
     }
     }
+    
+    
