@@ -13,7 +13,7 @@ function clicouBotao(){
     }
     else if (resposta === 3){
         alert("HIHIHI");
-        location.href = "../Fase 2/pauloF2.html"
+        location.href = "../../html/Fase 2/pauloF2.html"
     }
     else {
         alert("Game over");

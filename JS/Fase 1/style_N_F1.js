@@ -6,7 +6,7 @@ function clicouBotao(){
     } 
     if (resposta === 1){
         alert("HEHEH");
-        location.href = "../Fase 2/nadiaF2.html"
+        location.href = "../../html/Fase 2/nadiaF2.html"
     }
     else if (resposta === 2) {
         alert("HUHUHU");

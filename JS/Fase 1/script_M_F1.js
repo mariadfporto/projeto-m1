@@ -9,7 +9,7 @@ function clicouBotao(){
     }
     else if (resposta === 2) {
         alert("HUHUHU");
-        location.href = "../Fase 2/manuelaF2.html"
+        location.href = "../../html/Fase 2/manuelaF2.html"
     }
     else if (resposta === 3){
         alert("HIHIHI");
