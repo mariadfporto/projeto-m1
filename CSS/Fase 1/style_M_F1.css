@@ -105,7 +105,14 @@ font-weight: bold;
     font-size: 25px;
     margin: 2%;
     font-size: 32px;
+    color: #bb0a1e;
 }
+
+@media only screen and (max-width: 900px){
+    .title-card{
+        color: white;
+    }
+    }
 
 #button {
     display: inline-block;
