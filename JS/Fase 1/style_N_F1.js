@@ -1,4 +1,4 @@
-function clicouBotao(){
+function resposta(){
     var resposta = Number(prompt("Qual caminho Nádia deve seguir?"));
     
     while (!resposta){

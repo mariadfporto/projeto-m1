@@ -1,4 +1,4 @@
-function clicouBotao(){
+function resposta(){
     var resposta = Number(prompt("Qual caminho Manuela deve seguir?"));
     
     while (!resposta){
