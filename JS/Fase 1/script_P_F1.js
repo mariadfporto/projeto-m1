@@ -10,8 +10,6 @@ function clicouBotao(){
     }
     else if (resposta === 2) {
         alert("HUHUHU");
-        
-        
     }
     else if (resposta === 3){
         alert("HIHIHI");
