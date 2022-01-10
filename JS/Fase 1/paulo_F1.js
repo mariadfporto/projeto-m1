@@ -11,7 +11,7 @@ function resposta(){
     }
     else if (resposta === 2) {
         alert("Paulo e sua família decidem seguir por esse caminho.");
-        location.href = "../../html/Fase 2/pauloF2.html"
+        location.href = "../../html/Fase 2/paulo_F2.html"
     }
     else if (resposta === 3){
         alert("Esse caminho os levou de encontro para uma horda de zumbis, fazendo com todos morressem.");
