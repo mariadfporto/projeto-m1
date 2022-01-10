@@ -1,6 +1,6 @@
 body{
-    background-image: url("../Imagens/PauloC.jpg");
-    background-size: cover;
+    background-image: url("../../Imagens/Cidade.jpg");
+    background-size: contain;
 
 }
 

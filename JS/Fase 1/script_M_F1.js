@@ -14,7 +14,4 @@ function resposta(){
     else if (resposta === 3){
         alert("HIHIHI");
     }
-    else {
-        alert("Game over");
-    }
     }
