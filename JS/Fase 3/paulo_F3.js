@@ -6,7 +6,7 @@ function resposta(){
     } 
     if (resposta === 1){
         alert("Eles decidem ficar e lutar, pois o grupo de zumbis é pequeno e eles não querem arriscar ter os zumbis os seguindo.");
-        location.href = "../../html/Win/winner.html"
+        location.href = "../../html/Win/paulo-win.html"
     }
     else if (resposta === 2) {
         alert("Enquanto eles correm, Maria tropeça, fica para trás e acaba morrendo.");
