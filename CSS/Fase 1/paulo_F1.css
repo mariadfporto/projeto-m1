@@ -1,5 +1,5 @@
 body{
-    background-image: url("../Imagens/Nádia.jpg");
+    background-image: url("../../Imagens/PauloC.jpg");
     background-size: cover;
 
 }
@@ -73,12 +73,13 @@ body{
 .card-story{
     background-color: rgb(0, 0, 0, 0.8);
     color: white;
-text-align: center;
-border-radius: 2%;
-margin: 3% 5%; 
-padding: 0.1% 1.5% 0.5%;
-font-family: "Catamaran";
-font-weight: bold;
+    text-align: center;
+    border-radius: 2%;
+    margin: 3% 20%; 
+    padding-top: 0.5%;
+    font-family: "Catamaran";
+    font-weight: normal;
+    font-size: 20px;
 } 
 
 @media only screen and (max-width: 900px){
@@ -88,29 +89,34 @@ font-weight: bold;
     background-color: rgb(0, 0, 0, 0.8);
     color: white;
     text-align: center;
-    border-radius: 5%;
     font-family: "Catamaran";
-    font-weight: bold;
+    font-weight: normal;
     margin: 5% 4%;
     } 
 }
 
-.card-story > p{
-    font-size: 18px;
-    font-weight: normal;
-}
-
-
 .title-card{
-    font-size: 25px;
     margin: 2%;
-    font-size: 32px;
+    font-size: 34px;
+    color: #bb0a1e;
+    font-weight: bold;
 }
+
+.strong-text {
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 900px){
+    .title-card{
+        color: white;
+        font-weight: bold;
+    }
+    }
 
 #button {
     display: inline-block;
     padding: 1% 8%;
-    margin-top: 5%;
+    margin-top: 3%;
     margin-bottom: 4%;
     font-size: 13px;
     cursor: pointer;
@@ -127,10 +133,9 @@ font-weight: bold;
 
 @media only screen and (max-width: 900px){
     #button{
-        padding: 4% 8%;
-        margin-left: 4%;
-        margin-top: 5%;
-        margin-bottom: 5%;
+        padding: 4% 2%;
+        margin: 5% 15%;
+        
     }
 }
 
@@ -151,7 +156,7 @@ font-weight: bold;
     color: #000;
     text-align: center;
     padding: 0.5%;
-    margin-top: 13.5%;
+    margin-top: 9.5%;
     font-family: cursive;
 }
 
