@@ -10,7 +10,7 @@ function resposta(){
         location.href = "../../html/Game over/gameover.html"
     }
     else if (resposta === 2) {
-        alert("Paulo e sua família decidem seguir por esse caminho");
+        alert("Paulo e sua família decidem seguir por esse caminho.");
         location.href = "../../html/Fase 2/pauloF2.html"
     }
     else if (resposta === 3){
