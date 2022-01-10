@@ -4,6 +4,11 @@ body {
     background-repeat:repeat-y;
     }
 
+    img{
+        padding: 1.5% 1%;
+        float: left;
+    }
+
     .topnav {
         overflow: hidden;
         background-color: #000;
@@ -13,63 +18,28 @@ body {
     @media only screen and (max-width: 900px){
     .topnav {
         overflow: hidden;
-        background-color: #bb0a1e;
         padding: 3%;
     }
     }
-    
-    .topnav a {
-        float: right;
-        color: #bb0a1e;
-        text-align: center;
-        padding: 2.5% 5%;
-        text-decoration: none;
-        font-size: 18px;
-    }
-
-    @media only screen and (max-width: 900px){
-        .topnav a {
-            float: right;
-            color: #000;
-            text-align: center;
-            padding: 3.5% 5%;
-            text-decoration: none;
-            font-size: 15px;
-            font-weight: bold;
-        }
-    }
-
-    .topnav a:active {
-        background-color: #bb0a1e;
-        color: #000 ;
-    }
-
-
-    @media only screen and (max-width: 900px){
-    .topnav a:active {
-        background-color: #000;
-        color: #bb0a1e;
-    }
-}
-
         .title-game{ 
         color: #bb0a1e;
-        font-size: 30px;
+        font-size: 34px;
         font-family: cursive;
         float: left;
         font-weight: bold;
-        padding: 2% 3%;
+        padding: 1.5% 0.1%;
+        text-decoration: none;
         }  
 
-    
+
     @media only screen and (max-width: 900px){
         .title-game{ 
-            color: #000;
+            
             font-size: 25px;
             font-family: cursive;
             float: left;
             font-weight: bold;
-            padding: 2% 3%;
+            padding: 2.5% 3%;
         }  
     }
 
