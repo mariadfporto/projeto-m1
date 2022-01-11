@@ -1,5 +1,5 @@
 body{
-    background-image: url("../Imagens/Nádia.jpg");
+    background-image: url("../../Imagens/Nádia.jpg");
     background-size: cover;
 
 }
@@ -44,12 +44,12 @@ img{
 .card-story{
     background-color: rgb(0, 0, 0, 0.8);
     color: white;
-text-align: center;
-border-radius: 2%;
-margin: 3% 5%; 
-padding: 0.1% 1.5% 0.5%;
-font-family: "Catamaran";
-font-weight: bold;
+    text-align: center;
+    border-radius: 2%;
+    margin: 3% 18%; 
+    padding: 0.1% 1.5% 0.5%;
+    font-family: "Catamaran";
+    font-weight: bold;
 } 
 
 @media only screen and (max-width: 900px){

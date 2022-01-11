@@ -21,7 +21,7 @@ img{
     padding: 3%;
 }
 }
-    .title-game{ 
+.title-game{ 
     color: #bb0a1e;
     font-size: 34px;
     font-family: cursive;
@@ -46,7 +46,7 @@ img{
     color: white;
     text-align: center;
     border-radius: 2%;
-    margin: 3% 20%; 
+    margin: 3% 18%; 
     padding-top: 0.5%;
     font-family: "Catamaran";
     font-weight: normal;
