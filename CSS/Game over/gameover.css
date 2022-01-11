@@ -1,0 +1,117 @@
+body{
+    background-image:  url("../../Imagens/game-over.jpg");
+    background-size: cover;
+}
+
+img{
+    padding: 1.5% 1%;
+    float: left;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #000;
+    padding: 0;
+}
+
+@media only screen and (max-width: 900px){
+.topnav {
+    overflow: hidden;
+    padding: 3%;
+}
+}
+
+.title-game{ 
+    color: #bb0a1e;
+    font-size: 34px;
+    font-family: cursive;
+    float: left;
+    font-weight: bold;
+    padding: 1.5% 0.1%;
+    text-decoration: none;
+    }  
+
+
+@media only screen and (max-width: 900px){
+    .title-game{ 
+        
+        font-size: 25px;
+        font-family: cursive;
+        float: left;
+        font-weight: bold;
+        padding: 2.5% 3%;
+    }  
+}
+
+
+.card{
+    background-color: rgb(187, 10, 30, 0.5);
+    color: black;
+    margin: 6% 15% 0 15%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.titulo{
+    font-size: 150px;
+    padding: 2%;
+    }
+
+@media only screen and (max-width: 750px){
+    .titulo{
+        font-size: 100px;
+    }
+}
+
+.restart{
+    font-size: 60px;
+    padding: 0 2% 5% 2%;
+}
+
+@media only screen and (max-width: 750px){
+    .restart{
+        font-size: 35px;
+    }
+
+}
+
+.button{
+    font-size: 65px;
+    text-decoration: none;
+    color: black;
+    padding-bottom: 2%;
+
+}
+
+@media only screen and (max-width: 750px){
+    .button{
+        font-size: 45px;
+    }
+
+}
+
+.button:hover{
+    text-decoration: underline wavy rgb(255, 255, 255);
+    
+
+}
+
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(187,10,30, 0.5);
+    color: #000;
+    text-align: center;
+    padding: 0.5%;
+    margin-top: 10.9%;
+    font-family: cursive;
+}
+
+@media only screen and (max-width: 900px){
+    .footer{
+    background-color: rgb(0, 0, 0);
+    color: #bb0a1e;
+    }
+}
