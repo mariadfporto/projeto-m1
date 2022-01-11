@@ -1,5 +1,5 @@
 body{
-    background-image:  url("../../Imagens/game-over.jpg");
+    background-image:  url("../../Imagens/posto-vacina.jpg");
     background-size: cover;
 }
 
@@ -45,53 +45,53 @@ img{
 
 
 .card{
-    background-color: rgb(187, 10, 30, 0.5);
+    background-color: rgb(0, 0, 0, 0.9);
     margin: 6% 15% 0 15%;
     padding-bottom: 3%;
     text-align: center;
 }
 
 .titulo{
-    font-size: 150px;
+    font-size: 70px;
     padding: 2%;
     color: #FFD700;
     }
 
 @media only screen and (max-width: 750px){
     .titulo{
-        font-size: 100px;
+        font-size: 50px;
     }
 }
 
 .text{
-    font-size: 50px;
+    font-size: 25px;
     padding: 0 2% 5% 2%;
-    color: black;
+    color: white;
 }
 
 @media only screen and (max-width: 750px){
     .text{
-        font-size: 35px;
+        font-size: 20px;
     }
 
 }
 
 .restart{
-    font-size: 50px;
+    font-size: 40px;
     padding: 0 2% 5% 2%;
-    color: black;
+    color: #bb0a1e;
     font-weight: bold;
 }
 
 @media only screen and (max-width: 750px){
     .restart{
-        font-size: 35px;
+        font-size: 30px;
     }
 
 }
 
 .button{
-    font-size: 65px;
+    font-size: 45px;
     text-decoration: none;
     color: white;
     padding-bottom: 2%;
@@ -100,7 +100,7 @@ img{
 
 @media only screen and (max-width: 750px){
     .button{
-        font-size: 45px;
+        font-size: 25px;
     }
 
 }
@@ -116,7 +116,7 @@ img{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    background-color: rgb(187,10,30, 0.5);
+    background-color: rgb(187,10,30, 0.8);
     color: #000;
     text-align: center;
     padding: 0.5%;
