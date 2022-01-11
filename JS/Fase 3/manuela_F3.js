@@ -11,7 +11,7 @@ function resposta(){
     }
     else if (resposta === 2) {
         alert("ALGUM TEXTO");
-        location.href = "../../html/Fase 2/pauloF2.html"
+        location.href = "../../html/Win/manuela-win.html"
     }
     else if (resposta === 3){
         alert("ALGUM TEXTO");
