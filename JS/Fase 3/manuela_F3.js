@@ -1,21 +1,17 @@
 function resposta(){
-    var resposta = Number(prompt("ALGUM TEXTO"));
+    var resposta = Number(prompt("O que Manuela deve fazer?\n1- Barulho para atrair os zumbis.\n2- Enfrentar os zumbis."));
     
     while (!resposta){
-        var resposta = Number(prompt("Responda 1, 2 ou 3"));
+        var resposta = Number(prompt("Responda 1 ou 2"));
     } 
 
     if (resposta === 1){
-        alert("ALGUM TEXTO");
+        alert("Ao fazer barulho, Manuela atrai um grupo muito maior do que ela esperava e não consegue dar conta de todos os zumbis e é mordida.");
         location.href = "../../html/Game over/gameover.html"
     }
     else if (resposta === 2) {
-        alert("ALGUM TEXTO");
+        alert("");
         location.href = "../../html/Win/manuela-win.html"
-    }
-    else if (resposta === 3){
-        alert("ALGUM TEXTO");
-        location.href = "../../html/Game over/gameover.html"
     }
     }
     
