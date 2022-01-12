@@ -1,2 +1,2 @@
-# projeto-m1
-Projeto de final de módulo da Resilia 
+# Projeto final do módulo 1 da Resilia
+ 
