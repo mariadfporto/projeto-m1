@@ -1,5 +1,5 @@
 function resposta(){
-    var resposta = Number(prompt("Por onde Nádia deve ir?\n1 - Pelas escadas.\n2 - Pela rua.\n3- Pelo Muro."));
+    var resposta = Number(prompt("Por onde Nádia deve ir?\n1 - Pelas escadas.\n2 - Pela rua.\n3- Pelo muro."));
     
     while (!resposta){
         var resposta = Number(prompt("Responda 1, 2 ou 3"));
