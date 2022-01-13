@@ -8,7 +8,7 @@
 ♦️ 3 personagens <br>
 ♦️ 3 etapas/ fases para cada personagem. <br>
   
- 🗨️ O tema escolhido pelo meu grupo foi "zumbis", e eu me inspirei na história do filme Guerra Mundial Z para criar esse jogo. <br><br>
+ 🗨️ O tema escolhido pelo meu grupo foi "zumbis", e eu me inspirei um pouco na história do filme Guerra Mundial Z para criar esse jogo. <br><br>
  🖥️ Para jogar, basta acessar o <a href="https://mariadfporto.github.io/projeto-m1/index.html">link aqui<a>.
 
  <hr>  
