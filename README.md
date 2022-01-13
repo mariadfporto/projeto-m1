@@ -1,17 +1,17 @@
 # Projeto de encerramento do módulo 1 da Resilia: Jogo de escolhas 
 
 
-<h2 id="sobre">Sobre ❓ </h2>
+<h2 id="sobre">Sobre 📝 </h2>
 <p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas.
  One todo o mecanismo de interação entre o jogador e jogo deve ser feito através do prompt. <br>
  Além disso, precisava conter:<br>
 ♦️ 3 personagens <br>
 ♦️ 3 etapas/ fases para cada personagem. <br>
   
- 🗨️ O tema escolhido pelo meu grupo foi "zumbis", e eu me inspirei na história do filme Guerra Mundial Z para criar esse jogo. <br>
+ 🗨️ O tema escolhido pelo meu grupo foi "zumbis", e eu me inspirei na história do filme Guerra Mundial Z para criar esse jogo. <br><br>
+ 🖥️ Para jogar, basta acessar o <a href="https://mariadfporto.github.io/projeto-m1/index.html">link aqui<a>.
 
- <hr>
-  
+ <hr>  
   <h2><strong>Preview da página inicial</strong><h2>
 <img src="./Imagens/Preview 1.jpeg">
 <img src="./Imagens/Preview 2.jpeg">
