@@ -25,7 +25,7 @@
 - JavaScript ✔️
 - Tags semânticas ✔️
 - Classes ✔️
-- Seletores e Combinadores ✔️
+- Responsividade ✔️
 - Gradientes ✔️
 - Pseudo-classes ✔️
 - Display Flex ✔️
