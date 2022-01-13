@@ -1,7 +1,7 @@
 # Projeto de encerramento do módulo 1 da Resilia: Jogo de escolhas 
 
 
-<h2 id="sobre">Sobre 📝 </h2>
+<h2>Sobre 📝 </h2>
 <p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas.
  One todo o mecanismo de interação entre o jogador e jogo deve ser feito através do prompt. <br>
  Além disso, precisava conter:<br>
@@ -18,7 +18,7 @@
 
 <hr>
 
-<h2 id="linguagens">Softwares utilizados e Algumas habilidades adquiridas  📚</h2>
+<h2>Softwares utilizados e Algumas habilidades adquiridas  📚</h2>
 
 - HTML5 ✔️
 - CSS3 ✔️
@@ -36,7 +36,7 @@
 
  
  
-<div id="autor" align="center">
+<div align="center">
   
   **Criado e desenvolvido por [Maria Eduarda Frota](https:/https://www.linkedin.com/in/maria-eduarda-frota/).**
   
