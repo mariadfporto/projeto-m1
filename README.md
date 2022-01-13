@@ -10,14 +10,11 @@
   
  🗨️ O tema escolhido pelo meu grupo foi "zumbis", e eu me inspirei na história do filme Guerra Mundial Z para criar esse jogo. <br>
 
-  <br>
  <hr>
   
   <h2><strong>Preview da página inicial</strong><h2>
 <img src="./Imagens/Preview 1.jpeg">
 <img src="./Imagens/Preview 2.jpeg">
-
-
 
 <hr>
 
@@ -41,11 +38,11 @@
   <br>
   <br>
 
+ 
+ 
 <div id="autor" align="center">
   
   **Criado e desenvolvido por [Maria Eduarda Frota](https:/https://www.linkedin.com/in/maria-eduarda-frota/).**
-  
-  
   
  <div align="center"> 
   <a href="mailto:mariadamascenafrota@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Enviar E-mail"></a>
