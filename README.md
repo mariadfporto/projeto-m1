@@ -18,15 +18,12 @@
 
 <hr>
 
-<h2 id="linguagens">Softwares utilizados e Habilidades Adquiridas  📚</h2>
+<h2 id="linguagens">Softwares utilizados e Algumas habilidades adquiridas  📚</h2>
 
 - HTML5 ✔️
 - CSS3 ✔️
 - JavaScript ✔️
-- Tags semânticas ✔️
-- Classes ✔️
 - Responsividade ✔️
-- Gradientes ✔️
 - Pseudo-classes ✔️
 - Display Flex ✔️
 - Funções ✔️
