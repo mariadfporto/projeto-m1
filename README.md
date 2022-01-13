@@ -45,8 +45,6 @@
   **Criado e desenvolvido por [Maria Eduarda Frota](https:/https://www.linkedin.com/in/maria-eduarda-frota/).**
   
  <div align="center"> 
-  <a href="mailto:mariadamascenafrota@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Enviar E-mail"></a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mariadfporto" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40em" title="GitHub da Maria"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/maria-eduarda-frota/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="LinkedIn da Maria"></a>
