@@ -30,7 +30,6 @@
 - Prompt e Alert ✔️
 - If, Else ✔️
 - While ✔️
-- Estruturas de repetição ✔️
 
   <br>
   <br>
